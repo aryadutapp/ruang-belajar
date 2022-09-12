@@ -2,5 +2,5 @@
 
 Contributor:
 
-- Aryaduta Putra Perkasa - BE2843879`
+- Aryaduta Putra Perkasa - BE2843879
 - Bob
